@@ -1,4 +1,4 @@
-```markdown
+
 # SYSU Library - 计算机基础资源库
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -63,4 +63,3 @@
 
 ## 📜 许可协议
 本项目采用 [MIT License](LICENSE)，部分第三方资源保留其原有版权。
-```
