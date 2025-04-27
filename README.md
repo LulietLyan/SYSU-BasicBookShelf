@@ -31,9 +31,10 @@
 
 
 ## 🤗 Introduction
-本仓库旨在系统化整理计算机科学领域的基础学习资源，为中山大学学生及广大开发者提供结构化知识库。
 
-查看资源请移步 **[resources 分支](https://github.com/SYSU-Library/SYSU-BasicBookShelf/tree/resources)**
+- 本仓库旨在系统化整理计算机科学领域的基础学习资源，为中山大学学生及广大开发者提供结构化知识库
+
+- 查看资源请移步 **[resources 分支](https://github.com/SYSU-Library/SYSU-BasicBookShelf/tree/resources)**
 
 ## 📚 内容目录
 
