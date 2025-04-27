@@ -1,10 +1,37 @@
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"><b>SYSUBasicBookShelf - 计算机基础资源库</b></h1></summary>
+  </ul>
+</div>
 
-# SYSU Library - 计算机基础资源库
+<p align="center"> 
+  <a href="https://github.com/SYSU-Library?tab=followers"> <img src="https://img.shields.io/github/followers/SYSU-Library?label=Followers&style=for-the-badge&color=purple" height="25px" alt="github follow" > </a>
+  <a href="https://github.com/SYSU-Library/SYSU-BasicBookShelf?tab=stars"> <img src="https://img.shields.io/github/stars/SYSU-Library/SYSU-BasicBookShelf?label=Stars&style=for-the-badge" height="25px" alt="github repo stars" > </a>
+  <a href="https://github.com/SYSU-Library/SYSU-BasicBookShelf"> <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" height="25px" alt="github repo stars" > </a>
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/sysu-library/basic/pulls)
+<p align="center"> 
+<a href="https://github.com/SYSU-Library"><img src="./images/SYSU.png" height=50pt alt="lulietlyan" /></a>
+ </p>
 
+<img src="./images/line-neon.gif" width=100%><br><br>
+
+## Contents
+- [Contents](#contents)
+- [🤗 Introduction](#-introduction)
+- [📚 内容目录](#-内容目录)
+  - [计算机专业基础](#计算机专业基础)
+  - [编程语言](#编程语言)
+  - [开发工具](#开发工具)
+- [🛠️ 使用指南](#️-使用指南)
+- [🤝 参与贡献](#-参与贡献)
+- [📜 许可协议](#-许可协议)
+
+
+## 🤗 Introduction
 本仓库旨在系统化整理计算机科学领域的基础学习资源，为中山大学学生及广大开发者提供结构化知识库。
+
+查看资源请移步 **[resources 分支](https://github.com/SYSU-Library/SYSU-BasicBookShelf/tree/resources)**
 
 ## 📚 内容目录
 
@@ -63,3 +90,5 @@
 
 ## 📜 许可协议
 本项目采用 [MIT License](LICENSE)，部分第三方资源保留其原有版权。
+
+<img src="./images/line-neon.gif" width=100%><br><br>
