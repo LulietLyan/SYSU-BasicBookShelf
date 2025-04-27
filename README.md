@@ -71,8 +71,8 @@
 
 ## 🛠️ 使用指南
 ```bash
-    git clone https://github.com/sysu-library/basic.git
-    cd basic
+    git clone https://github.com/SYSU-Library/SYSU-BasicBookShelf.git
+    cd SYSU-BasicBookShelf
     # 按目录查找所需资源
 ```
 
