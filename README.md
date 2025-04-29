@@ -105,4 +105,4 @@
 ## 📜 许可协议
 本项目采用 [MIT License](LICENSE)，部分第三方资源保留其原有版权。
 
-<img src="./images/line-neon.gif" width=100%><br><br>
+<img src="./image/line-neon.gif" width=100%><br>
