@@ -42,9 +42,10 @@
 
 
 ## 🤗 Introduction
-本仓库旨在系统化整理计算机科学领域的基础学习资源，为中山大学学生及广大开发者提供结构化知识库。
 
-查看资源请移步 **[resources 分支](https://github.com/SYSU-Library/SYSU-BasicBookShelf/tree/resources)**
+- 本仓库旨在系统化整理计算机科学领域的基础学习资源，为中山大学学生及广大开发者提供结构化知识库
+
+- 查看资源请移步 **[resources 分支](https://github.com/SYSU-Library/SYSU-BasicBookShelf/tree/resources)**
 
 ## 📚 内容目录
 
@@ -104,4 +105,4 @@
 ## 📜 许可协议
 本项目采用 [MIT License](LICENSE)，部分第三方资源保留其原有版权。
 
-<img src="./image/line-neon.gif" width=100%><br>
+<img src="./images/line-neon.gif" width=100%><br><br>
