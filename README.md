@@ -1,4 +1,4 @@
-<img src="./images/line-neon.gif" width=100%><br>
+<img src="./images/line-neon.gif" width=100%><br><br>
 
 <div id="user-content-toc">
   <ul align="center">
