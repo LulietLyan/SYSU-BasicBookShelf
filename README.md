@@ -1,4 +1,4 @@
-<img src="./images/line-neon.gif" width=100%><br><br>
+<img src="./images/line-neon.gif" width=100%><br>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -7,16 +7,19 @@
 </div>
 
 <p align="center"> 
-  <a href="https://github.com/SYSU-Library?tab=followers"> <img src="https://img.shields.io/github/followers/SYSU-Library?label=Followers&style=for-the-badge&color=purple" height="25px" alt="github follow" > </a>
-  <a href="https://github.com/SYSU-Library/SYSU-BasicBookShelf?tab=stars"> <img src="https://img.shields.io/github/stars/SYSU-Library/SYSU-BasicBookShelf?label=Stars&style=for-the-badge" height="25px" alt="github repo stars" > </a>
-  <a href="https://github.com/SYSU-Library/SYSU-BasicBookShelf"> <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" height="25px" alt="github repo stars" > </a>
+  <img src="https://img.shields.io/github/followers/SYSU-Library?label=Followers&style=for-the-badge&color=purple"alt="github follow" > </a>
+  <img src="https://img.shields.io/github/stars/SYSU-Library/SYSU-BasicBookShelf?label=Stars&style=for-the-badge"alt="github repo stars" > </a>
+  <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge"alt="github repo stars" > </a>
+  <img src="https://img.shields.io/github/contributors/SYSU-Library/SYSU-BasicBookShelf?style=for-the-badge&color=%23985684"alt="contributors" >
+  <img src="https://img.shields.io/github/forks/SYSU-Library/SYSU-BasicBookShelf?style=for-the-badge&color=%23187777" 
+    alt="forks" >
 </p>
 
 <p align="center"> 
 <a href="https://github.com/SYSU-Library"><img src="./images/SYSU.png" height=50pt alt="lulietlyan" /></a>
  </p>
 
-<img src="./images/line-neon.gif" width=100%><br><br>
+<img src="./images/line-neon.gif" width=100%><br>
 
 ## Contents
 - [Contents](#contents)
@@ -94,4 +97,4 @@
 ## 📜 许可协议
 本项目采用 [MIT License](LICENSE)，部分第三方资源保留其原有版权。
 
-<img src="./images/line-neon.gif" width=100%><br><br>
+<img src="./images/line-neon.gif" width=100%><br>
