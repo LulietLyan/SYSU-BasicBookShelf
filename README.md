@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/github/stars/SYSU-Library/SYSU-BasicBookShelf?label=Stars&style=for-the-badge"alt="github repo stars" > </a>
   <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge"alt="github repo stars" > </a>
   <img src="https://img.shields.io/github/contributors/SYSU-Library/SYSU-BasicBookShelf?style=for-the-badge&color=%23985684"alt="contributors" >
+  <img src="https://img.shields.io/github/forks/SYSU-Library/SYSU-BasicBookShelf?style=for-the-badge&color=%23187777" 
+    alt="forks" >
 </p>
 
 <p align="center"> 
