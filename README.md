@@ -1,4 +1,4 @@
-<img src="./images/line-neon.gif" width=100%><br>
+<img src="./image/line-neon.gif" width=100%><br>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -7,19 +7,27 @@
 </div>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/followers/SYSU-Library?label=Followers&style=for-the-badge&color=purple"alt="github follow" > </a>
-  <img src="https://img.shields.io/github/stars/SYSU-Library/SYSU-BasicBookShelf?label=Stars&style=for-the-badge"alt="github repo stars" > </a>
-  <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge"alt="github repo stars" > </a>
-  <img src="https://img.shields.io/github/contributors/SYSU-Library/SYSU-BasicBookShelf?style=for-the-badge&color=%23985684"alt="contributors" >
+  <img src="https://img.shields.io/github/followers/SYSU-Library?label=Followers&style=for-the-badge&color=purple" 
+  alt="github follow">
+  <img src="https://img.shields.io/github/stars/SYSU-Library/SYSU-BasicBookShelf?label=Stars&style=for-the-badge" 
+  alt="github repo stars">
   <img src="https://img.shields.io/github/forks/SYSU-Library/SYSU-BasicBookShelf?style=for-the-badge&color=%23187777" 
-    alt="forks" >
+  alt="forks" >
+  <img src="https://img.shields.io/badge/Contributions-Welcome-%23028745?style=for-the-badge&labelColor=%23b08f42"
+  alt="contribution"/>
+  <img src="https://img.shields.io/badge/Star-IfYouLike-%23067897?style=for-the-badge&labelColor=%23879078"
+  alt="star"/>
+  <img src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" alt="license" >
+  <img src="https://img.shields.io/badge/I❤-SYSU-%23006745?style=for-the-badge&labelColor=%23a40845"
+  alt="SYSU"/>
 </p>
 
 <p align="center"> 
-<a href="https://github.com/SYSU-Library"><img src="./images/SYSU.png" height=50pt alt="lulietlyan" /></a>
- </p>
+    <a href="https://github.com/SYSU-Library"><img src="./image/SYSU.svg" height=50pt alt="lulietlyan" /></a>
+    <a href="https://github.com/SYSU-Library"><img src="./image/NSCC-GZ.svg" height=50pt alt="lulietlyan" /></a>
+</p>
 
-<img src="./images/line-neon.gif" width=100%><br>
+<img src="./image/line-neon.gif" width=100%><br>
 
 ## Contents
 - [Contents](#contents)
@@ -97,4 +105,4 @@
 ## 📜 许可协议
 本项目采用 [MIT License](LICENSE)，部分第三方资源保留其原有版权。
 
-<img src="./images/line-neon.gif" width=100%><br>
+<img src="./image/line-neon.gif" width=100%><br>
